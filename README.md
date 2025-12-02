@@ -1,5 +1,5 @@
-# AttackSeqBench
-AttackSeqBench is a novel Question Answering (QA) benchmark designed to systematically evaluate the capabilities of LLMs in understanding attack sequences found in Cyber Threat Intelligence (CTI) reports. We carefully an automated dataset construction pipeline, enabling us to create a scalable and well-formulated QA dataset based on real-world CTI reports. AttackSeqBench consists of three tasks, each task focuses on the different aspects of adversarial behavior. We conduct extensive experiments and analysis with
+# ASBench
+ASBench is a novel Question Answering (QA) benchmark designed to systematically evaluate the capabilities of LLMs in understanding attack sequences found in Cyber Threat Intelligence (CTI) reports. We carefully an automated dataset construction pipeline, enabling us to create a scalable and well-formulated QA dataset based on real-world CTI reports. ASBench consists of three tasks, each task focuses on the different aspects of adversarial behavior. We conduct extensive experiments and analysis with
 a diverse set of fast-thinking and slow-thinking LLMs, while highlighting the strengths and limitations of LLMs in understanding and reasoning about the relationships between TTPs in attack sequences. The overarching goal of this work is to provide a benchmark that provide valuable insights into LLM-driven CTI operations and foster its application in real-world cybersecurity applications. Our dataset can be found in the `/dataset` directory.
 
 ![motivation](./images/motivation_graph.jpg)
